@@ -1,0 +1,13 @@
+firebird
+_translates
+registry
+mysql
+util
+sqlite
+mssql
+postgresql
+_auto_fn
+oracle
+__all__
+plugins
+sybase
